@@ -1,0 +1,14 @@
+{
+  "name": "auto-news-bot",
+  "version": "1.0.0",
+  "description": "نشر تلقائي للأخبار بواسطة الذكاء الاصطناعي",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "openai": "^4.0.0",
+    "rss-parser": "^3.12.0"
+  }
+}
